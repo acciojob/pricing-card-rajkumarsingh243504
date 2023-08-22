@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+*
+{
+    margin-top:10px;
+    padding: 0;
+    box-sizing: border-box;
+    line-height: 30px;
+}
+div
+{
+    margin: auto;
+    border-radius: 30px;
+    width: 400px;
+    height: 600px;
+    padding: 90px;
+    background-color:#f1f1f1;
+    box-shadow: 10px 10px 20px red;
+}
+img
+{
+    border-radius: 30px;
+  width: 200px;
+  height: 200px;
+}
+button{
+    font-weight: bold;
+    margin: 20px;
+    width: 100px;
+    padding: 10px;
+    border-radius: 18px;
+    background-color: red;
+    color: white;
+}
